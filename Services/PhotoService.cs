@@ -47,7 +47,11 @@ public class PhotoService : IPhotoService
                 }
             }
         }
-        catch (Exception exception)
+        catch (HttpRequestException exception)
+        {
+            Console.WriteLine(exception);
+        }
+        catch (TaskCanceledException exception)
         {
             Console.WriteLine(exception);
         }
