@@ -1,7 +1,5 @@
 ﻿using System.Net.Http;
 using System;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
 using System.Linq;
 
 namespace Photo_Album
