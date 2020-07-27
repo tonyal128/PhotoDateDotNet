@@ -9,4 +9,4 @@ To run this application run
 `dotnet run`.
 
 To run the unit tests for this application run
-`dotnet test`
+`dotnet test`.
