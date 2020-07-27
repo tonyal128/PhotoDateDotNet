@@ -98,3 +98,16 @@ C:\Users\pepsi\Projects\DotNet\Photo Album\bin\Debug\netcoreapp3.1\zh-Hant\Micro
 C:\Users\pepsi\Projects\DotNet\Photo Album\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\pepsi\Projects\DotNet\Photo Album\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 C:\Users\pepsi\Projects\DotNet\Photo Album\obj\Debug\netcoreapp3.1\Photo Album.csproj.CopyComplete
+C:\Users\pepsi\Projects\DotNet\Photo Album\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\pepsi\Projects\DotNet\Photo Album\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pepsi\Projects\DotNet\Photo Album\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\pepsi\Projects\DotNet\Photo Album\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\pepsi\Projects\DotNet\Photo Album\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pepsi\Projects\DotNet\Photo Album\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pepsi\Projects\DotNet\Photo Album\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\pepsi\Projects\DotNet\Photo Album\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\pepsi\Projects\DotNet\Photo Album\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\pepsi\Projects\DotNet\Photo Album\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\pepsi\Projects\DotNet\Photo Album\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pepsi\Projects\DotNet\Photo Album\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\pepsi\Projects\DotNet\Photo Album\bin\Debug\netcoreapp3.1\System.Text.Json.dll
